@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahdiSheikhi
 - 👀 I’m interested in software engineering and cloud services.
-- 🌱 I’m currently learning Azure and PowerPlatform everyday.
+- 🌱 I’m learning Azure and PowerPlatform everyday.
 - 💞️ I’m looking to collaborate on Microsoft Service Providers.
 - 📫 Reach me at  Mahdi.Sheikhi(at)gmail.com
 
